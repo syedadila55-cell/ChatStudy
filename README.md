@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-## Aim: 
+## Aim:
 To perform a study on Client Server Chat Applications
 ## Introduction:
 Client-server chat applications are a category of networked software that enables real-time communication between users over a network. This study explores the key components, architecture, and considerations in the development of client-server chat applications, highlighting their significance and common implementation practices.
